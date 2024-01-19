@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @greg-barajas
-- 👀 I’m interested in music, art, and exercising
+- 👀 I’m interested in machine learning & data science
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on all things DevOps related
 - 📫 How to reach me: greg@grams.co
